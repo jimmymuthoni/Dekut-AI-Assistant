@@ -1,1 +1,12 @@
 requests
+langchain
+fastapi
+langchain_community
+bs4
+langchain-text-splitters
+transformers
+torch
+twilo
+langchain-ollama
+sentence-transformers
+faiss-cpu

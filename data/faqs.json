@@ -90,5 +90,87 @@
   {
     "question": "Data Privacy Statement",
     "answer": "DeKUT is committed to protecting students’ and stakeholders’ personal data in accordance with data protection regulations. For more information, refer to the University's Data Privacy Policy."
+  },[
+  {
+    "question": "What undergraduate programmes are offered in the School of Computer Science & IT?",
+    "answer": "The School of Computer Science & IT offers Bachelor of Science in Computer Science, Bachelor of Science in Information Technology, and Bachelor of Business Information Technology."
+  },
+  {
+    "question": "What postgraduate programmes are available in the School of Computer Science & IT?",
+    "answer": "The School offers Master of Science in Computer Science and Master of Science in Information Technology."
+  },
+  {
+    "question": "What are the minimum entry requirements for the Bachelor of Science in Computer Science?",
+    "answer": "Applicants must have a minimum mean grade of C+ in KCSE with at least a C+ in Mathematics, Physics, and English or Kiswahili."
+  },
+  {
+    "question": "What are the minimum entry requirements for the Bachelor of Science in Information Technology?",
+    "answer": "Applicants must have a minimum mean grade of C+ in KCSE with at least a C in Mathematics and English or Kiswahili."
+  },
+  {
+    "question": "What is the duration of the Computer Science and Information Technology programmes?",
+    "answer": "The Bachelor of Science in Computer Science and the Bachelor of Science in Information Technology programmes typically take four academic years to complete."
+  },
+  {
+    "question": "What computer laboratories and equipment are available to Computer Science & IT students?",
+    "answer": "The School has fully equipped computer laboratories with high-speed internet, modern desktops, networking labs, and software development tools to support practical learning."
+  },
+  {
+    "question": "Does the School offer access to high-performance computing facilities or specialized software?",
+    "answer": "Yes, the School provides access to specialized software for programming, data analytics, and networking, as well as limited access to high-performance computing resources for advanced research."
+  },
+  {
+    "question": "Are there opportunities for hands-on coding projects in the curriculum?",
+    "answer": "Yes, the curriculum emphasizes hands-on projects, practical sessions, and industrial exposure through real-world coding assignments and system development projects."
+  },
+  {
+    "question": "What areas of specialization are available in the Computer Science programme?",
+    "answer": "Students can specialize in areas such as Software Engineering, Artificial Intelligence, Cybersecurity, Data Science, and Networks."
+  },
+  {
+    "question": "What career paths can one pursue with a degree from the School of Computer Science & IT?",
+    "answer": "Graduates can pursue careers in software development, network administration, cybersecurity, data science, IT consultancy, academia, and research, among others."
+  },
+  {
+    "question": "Does the School assist students in securing industrial attachments and internships?",
+    "answer": "Yes, the School collaborates with the DeKUT Career Office to assist students in securing industrial attachments and internships with leading organizations."
+  },
+  {
+    "question": "Are there partnerships between the School and tech companies?",
+    "answer": "Yes, the School has partnerships with technology companies and participates in academic-industry collaborations to enhance student exposure to current industry practices."
+  },
+  {
+    "question": "Does the School offer mentorship or career guidance specific to the IT field?",
+    "answer": "Yes, the School provides academic advising, career mentorship, and periodic industry talks to guide students in shaping their career paths in IT."
+  },
+  {
+    "question": "What kind of research projects are students encouraged to undertake?",
+    "answer": "Students are encouraged to undertake projects in areas like Artificial Intelligence, Mobile Application Development, Cybersecurity, Cloud Computing, and Smart Systems."
+  },
+  {
+    "question": "Are there student clubs or hackathons related to Computer Science & IT?",
+    "answer": "Yes, students can join active tech clubs like the Google Developer Student Club (GDSC) and participate in annual hackathons, coding competitions, and innovation challenges."
+  },
+  {
+    "question": "Does the School support participation in coding competitions or external tech events?",
+    "answer": "Yes, the School encourages and sponsors students to participate in coding competitions, innovation expos, and tech events at both national and international levels."
+  },
+  {
+    "question": "Does the School offer online learning platforms or remote coding labs?",
+    "answer": "Yes, the School utilizes online learning platforms such as Moodle, and students can access some remote coding labs for practice and assignments."
+  },
+  {
+    "question": "Are learning materials and lecture notes accessible online for Computer Science & IT students?",
+    "answer": "Yes, learning materials, lecture notes, and assignments are regularly uploaded to the University’s online learning portal for easy student access."
+  },
+  {
+    "question": "How can I contact the School of Computer Science & IT for more information?",
+    "answer": "You can contact the School through the University’s main contact channels or visit the School’s office at the Main Campus for direct inquiries."
+  },
+  {
+    "question": "How can I book consultations with lecturers or academic advisors in the department?",
+    "answer": "Students can book consultations with lecturers by scheduling appointments via email, through the departmental office, or using the University's online booking system where available."
   }
+]
+
 ]
