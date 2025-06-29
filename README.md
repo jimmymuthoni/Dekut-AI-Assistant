@@ -14,7 +14,6 @@ The assistant supports both text and voice queries, making it accessible through
 git clone https://github.com/jimmymuthoni/Dekut-Smart-Assistant.git
 cd Dekut-Smart-Assistant
 ```
-
 2. Create and activate a Python virtual environment:
 
 ```bash
@@ -27,29 +26,35 @@ source env/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
 4. Set up your environment variables in a `.env` file.
 
-5. Run the backend:
+5. Run the following commands for LLM to work.
+
+```bash
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+```
+7. Run the backend:
 
 ```bash
 cd backend
 uvicorn main:app --reload
 ```
-
 6. Run the Streamlit frontend:
 
 ```bash
 cd ../streamlit_ui
 streamlit run frontend.py
 ```
-
 7. For WhatsApp integration, set your Twilio webhook to:
 
 ```
 https://<your-ngrok-url>/whatsapp
 ```
+8. Install Whisper
 
+ ```bash
+uv pip install git+https://github.com/openai/whisper.git
+```
 Make sure to expose your backend using:
 
 ```bash
