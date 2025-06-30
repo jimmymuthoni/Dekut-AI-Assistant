@@ -41,8 +41,15 @@ pip install -r requirements.txt
    ollama run gemma:2b
    ```
 4. Set up your environment variables in a `.env` file.
+```bash
+   .env file has.
+TWILIO_SID=""
+TWILIO_TOKEN=""
+TWILIO_WHATSAPP_NUMBER=whatsapp:
+HUGGING_FACE_TOKEN = ""
+```
 
-5. Run the following commands for LLM to work.
+6. Run the following commands for LLM to work.
 
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
