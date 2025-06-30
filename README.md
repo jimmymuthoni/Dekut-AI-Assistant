@@ -26,6 +26,20 @@ source env/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+4. Esure Olllama is installed locally
+
+   ```bash
+   linux
+   curl -fsSL https://ollama.com/install.sh | sh
+
+   Documentation to install Ollama
+   https://github.com/ollama/ollama
+
+   Pull Gemma:2b LLM
+   ollama pull gemma:2b
+   Then run it:
+   ollama run gemma:2b
+   ```
 4. Set up your environment variables in a `.env` file.
 
 5. Run the following commands for LLM to work.
