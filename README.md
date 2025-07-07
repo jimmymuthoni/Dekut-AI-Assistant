@@ -93,3 +93,6 @@ ngrok http 8000
 
 ### 2. Asking about CS & IT Departtments.
 ![CS_department](https://github.com/jimmymuthoni/Dekut-AI-Assistant/blob/f0a53520bed15fcca62885edc29736ad5f10d870/cs.png)
+
+### 3. Just samples of ouput.
+![cs_info](https://github.com/jimmymuthoni/Dekut-AI-Assistant/blob/b08dd450ab9a906316d97247d2afb14c5cee6a8c/INFO.png)
