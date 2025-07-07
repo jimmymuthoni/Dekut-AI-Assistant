@@ -10,3 +10,5 @@ twilo
 langchain-ollama
 sentence-transformers
 faiss-cpu
+uvicorn
+streamlit

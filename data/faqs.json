@@ -90,7 +90,7 @@
   {
     "question": "Data Privacy Statement",
     "answer": "DeKUT is committed to protecting students’ and stakeholders’ personal data in accordance with data protection regulations. For more information, refer to the University's Data Privacy Policy."
-  },[
+  },
   {
     "question": "What undergraduate programmes are offered in the School of Computer Science & IT?",
     "answer": "The School of Computer Science & IT offers Bachelor of Science in Computer Science, Bachelor of Science in Information Technology, and Bachelor of Business Information Technology."
@@ -171,6 +171,4 @@
     "question": "How can I book consultations with lecturers or academic advisors in the department?",
     "answer": "Students can book consultations with lecturers by scheduling appointments via email, through the departmental office, or using the University's online booking system where available."
   }
-]
-
 ]
