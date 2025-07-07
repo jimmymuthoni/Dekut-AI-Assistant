@@ -85,16 +85,11 @@ ngrok http 8000
 
 ---
 
-## Screenshots
+### Screenshots
 
-### 1. Home Page
+### 1. About Dekut.
+![Home Page](https://github.com/jimmymuthoni/Dekut-AI-Assistant/blob/02b72e084427a393509c91f9514925fa571f141d/home_page.png)
 
-*(Attach Screenshot 1 here)*
 
-### 2. Asking a Question via Streamlit Interface
-
-*(Attach Screenshot 2 here)*
-
-### 3. WhatsApp Integration Example
-
-*(Attach Screenshot 3 here)*
+### 2. Asking about CS & IT Departtments.
+![CS_department]()
